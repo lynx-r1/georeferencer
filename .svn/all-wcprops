@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/qgis/!svn/ver/14494/trunk/qgis/src/plugins/georeferencer
+END
+qgstransformtypedialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/qgstransformtypedialogbase.ui
+END
+qgsgcpcanvasitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/13436/trunk/qgis/src/plugins/georeferencer/qgsgcpcanvasitem.cpp
+END
+qgsgeorefdelegates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefdelegates.cpp
+END
+qgsgeorefplugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/qgis/!svn/ver/13041/trunk/qgis/src/plugins/georeferencer/qgsgeorefplugin.cpp
+END
+qgsresidualplotitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgsresidualplotitem.cpp
+END
+qgsgcplistmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgcplistmodel.h
+END
+qgsgeoreftooladdpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeoreftooladdpoint.h
+END
+qgsmapcoordsdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/qgis/!svn/ver/13296/trunk/qgis/src/plugins/georeferencer/qgsmapcoordsdialogbase.ui
+END
+qgsgeorefplugingui.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgsgeorefplugingui.h
+END
+qgsgeorefdescriptiondialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefdescriptiondialog.h
+END
+qgsvalidateddoublespinbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/qgis/!svn/ver/13041/trunk/qgis/src/plugins/georeferencer/qgsvalidateddoublespinbox.h
+END
+qgsgeoreftooldeletepoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeoreftooldeletepoint.cpp
+END
+qgsopenrasterdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsopenrasterdialog.cpp
+END
+qgsimagewarper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/qgis/!svn/ver/13380/trunk/qgis/src/plugins/georeferencer/qgsimagewarper.cpp
+END
+georeferencer.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/georeferencer.qrc
+END
+qgsgeorefconfigdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgsgeorefconfigdialogbase.ui
+END
+qgsgeorefvalidators.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefvalidators.h
+END
+qgsmapcoordsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/qgis/!svn/ver/13659/trunk/qgis/src/plugins/georeferencer/qgsmapcoordsdialog.cpp
+END
+qgsgeoreftransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/13987/trunk/qgis/src/plugins/georeferencer/qgsgeoreftransform.h
+END
+qgsgcplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgcplist.h
+END
+qgsgeoreftoolmovepoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/qgis/!svn/ver/14313/trunk/qgis/src/plugins/georeferencer/qgsgeoreftoolmovepoint.h
+END
+qgstransformsettingsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qgis/!svn/ver/14494/trunk/qgis/src/plugins/georeferencer/qgstransformsettingsdialog.cpp
+END
+qgsgeorefconfigdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgsgeorefconfigdialog.cpp
+END
+qgsgcplistwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgcplistwidget.h
+END
+qgsgeorefdatapoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/13962/trunk/qgis/src/plugins/georeferencer/qgsgeorefdatapoint.h
+END
+qgsleastsquares.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/qgis/!svn/ver/13987/trunk/qgis/src/plugins/georeferencer/qgsleastsquares.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/qgis/!svn/ver/14425/trunk/qgis/src/plugins/georeferencer/CMakeLists.txt
+END
+qgsgeorefdescriptiondialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/qgsgeorefdescriptiondialogbase.ui
+END
+qgsgeorefpluginguibase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/qgsgeorefpluginguibase.ui
+END
+qgsgcplistmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/qgis/!svn/ver/14016/trunk/qgis/src/plugins/georeferencer/qgsgcplistmodel.cpp
+END
+qgsgeoreftooladdpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeoreftooladdpoint.cpp
+END
+qgsopenrasterdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/qgsopenrasterdialogbase.ui
+END
+qgsgcpcanvasitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/qgis/!svn/ver/13436/trunk/qgis/src/plugins/georeferencer/qgsgcpcanvasitem.h
+END
+qgsgeorefdelegates.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefdelegates.h
+END
+qgsgeorefplugingui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgsgeorefplugingui.cpp
+END
+qgsgeorefplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/qgis/!svn/ver/13041/trunk/qgis/src/plugins/georeferencer/qgsgeorefplugin.h
+END
+qgsgeorefdescriptiondialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefdescriptiondialog.cpp
+END
+qgsresidualplotitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/qgis/!svn/ver/13719/trunk/qgis/src/plugins/georeferencer/qgsresidualplotitem.h
+END
+qgsgeorefvalidators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefvalidators.cpp
+END
+qgstransformsettingsdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgstransformsettingsdialogbase.ui
+END
+qgsgeoreftransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/qgis/!svn/ver/14313/trunk/qgis/src/plugins/georeferencer/qgsgeoreftransform.cpp
+END
+qgsgcplist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgcplist.cpp
+END
+qgsgeoreftoolmovepoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/qgis/!svn/ver/14313/trunk/qgis/src/plugins/georeferencer/qgsgeoreftoolmovepoint.cpp
+END
+qgsgeoreftooldeletepoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeoreftooldeletepoint.h
+END
+qgsopenrasterdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsopenrasterdialog.h
+END
+qgsimagewarper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/qgis/!svn/ver/13041/trunk/qgis/src/plugins/georeferencer/qgsimagewarper.h
+END
+qgsgcplistwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/13989/trunk/qgis/src/plugins/georeferencer/qgsgcplistwidget.cpp
+END
+qgsgeorefdatapoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/qgis/!svn/ver/13962/trunk/qgis/src/plugins/georeferencer/qgsgeorefdatapoint.cpp
+END
+qgsleastsquares.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/qgis/!svn/ver/13993/trunk/qgis/src/plugins/georeferencer/qgsleastsquares.cpp
+END
+qgsmapcoordsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsmapcoordsdialog.h
+END
+qgstransformsettingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qgis/!svn/ver/14192/trunk/qgis/src/plugins/georeferencer/qgstransformsettingsdialog.h
+END
+qgsgeorefconfigdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/qgis/!svn/ver/13187/trunk/qgis/src/plugins/georeferencer/qgsgeorefconfigdialog.h
+END

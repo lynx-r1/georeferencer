@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/qgis/!svn/ver/13463/trunk/qgis/src/plugins/georeferencer/icons
+END
+mActionOpenRaster.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionOpenRaster.png
+END
+mActionProjectProperties.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/qgis/!svn/ver/13463/trunk/qgis/src/plugins/georeferencer/icons/mActionProjectProperties.png
+END
+mActionStartGeoref.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionStartGeoref.png
+END
+mActionInfoTabWidget.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionInfoTabWidget.png
+END
+mPushButtonTargetSRSEnabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/qgis/!svn/ver/13463/trunk/qgis/src/plugins/georeferencer/icons/mPushButtonTargetSRSEnabled.png
+END
+mActionHelp.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionHelp.png
+END
+mActionTransformSettings.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionTransformSettings.png
+END
+mActionGDALScript.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionGDALScript.png
+END
+mPushButtonClipboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mPushButtonClipboard.png
+END
+mGeorefRun.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mGeorefRun.png
+END
+mPushButtonFileOpen.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mPushButtonFileOpen.png
+END
+mActionSaveRasterAs.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionSaveRasterAs.png
+END
+mPushButtonTargetSRSDisabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/qgis/!svn/ver/13463/trunk/qgis/src/plugins/georeferencer/icons/mPushButtonTargetSRSDisabled.png
+END
+mActionLoadGCPpoints.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionLoadGCPpoints.png
+END
+mActionLinkQGisToGeoref.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionLinkQGisToGeoref.xcf
+END
+mActionLinkGeorefToQGis.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionLinkGeorefToQGis.xcf
+END
+mPushButtonPencil.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mPushButtonPencil.png
+END
+qgis.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/qgis.xpm
+END
+mActionSaveGCPpointsAs.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionSaveGCPpointsAs.png
+END
+mActionMoveGCPPoint.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/qgis/!svn/ver/13463/trunk/qgis/src/plugins/georeferencer/icons/mActionMoveGCPPoint.png
+END
+mActionAbout.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/qgis/!svn/ver/13463/trunk/qgis/src/plugins/georeferencer/icons/mActionAbout.png
+END
+mActionLinkQGisToGeoref.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionLinkQGisToGeoref.png
+END
+mActionLinkGeorefToQGis.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mActionLinkGeorefToQGis.png
+END
+mGeorefDescription.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mGeorefDescription.png
+END
+mPushButtonEditPaste.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qgis/!svn/ver/12945/trunk/qgis/src/plugins/georeferencer/icons/mPushButtonEditPaste.png
+END
